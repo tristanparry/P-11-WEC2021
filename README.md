@@ -5,7 +5,7 @@ Group P-11's submission for the University of Waterloo's 2021 Engineering Compet
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Part 1</h3>
+<h3>Part I</h3>
 
 > Compute typing time for various given words
 > 
@@ -13,7 +13,7 @@ Group P-11's submission for the University of Waterloo's 2021 Engineering Compet
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Part 2</h3>
+<h3>Part II</h3>
 
 > Add code functionality for a broken button
 > 
@@ -23,11 +23,19 @@ Group P-11's submission for the University of Waterloo's 2021 Engineering Compet
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Part 3</h3>
+<h3>Part III</h3>
 
 > Develop creative solution for dial pad layout
 > 
 > Increase efficiency/lower typing time with implemented solution
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>Documentation/Presentation Elements</h3>
+
+> [Parts II/III Documentation](https://tristanparry.github.io/BetterBanking-GUI/betterBankingGUImaven/package-summary.html)
+> 
+> [Presentation Visuals](https://tristanparry.github.io/BetterBanking-GUI/betterBankingGUImaven/package-summary.html)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
