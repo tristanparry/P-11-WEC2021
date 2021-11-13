@@ -48,7 +48,7 @@ timeMap = {
 }
 # DEFINE ORDER DICTIONARY
 orderMap = {
-	  'a': 0, 'b': 1, 'c': 2,
+    'a': 0, 'b': 1, 'c': 2,
     'd': 0, 'e': 1, 'f': 2,
     'g': 0, 'h': 1, 'i': 2,
     'j': 0, 'k': 1, 'l': 2,
