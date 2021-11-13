@@ -109,7 +109,7 @@ def calculateWordTime():
 			# REMOVE THE TIME IT TAKES TO CLICK IF THE CHARACTER EXISTS ON THE BROKEN BUTTON
 			if buttonMap[currentWord[i].lower()] == BROKEN_BUTTON:
 				TOTAL_TIME_LIST[CURRENT_TIME_INDEX] += calculateBrokenButton(currentWord[i])
-				TOTAL_TIME_LIST[CURRENT_TIME_INDEX] -=0.25
+				TOTAL_TIME_LIST[CURRENT_TIME_INDEX] -= 0.25
 			elif (currentWord[0].isupper()):
 				TOTAL_TIME_LIST[CURRENT_TIME_INDEX] += CAPITAL_TIME
 				TOTAL_TIME_LIST[CURRENT_TIME_INDEX] += timeMap[currentWord[i].lower()]
