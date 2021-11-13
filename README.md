@@ -33,7 +33,7 @@ Group P-11's submission for the University of Waterloo's 2021 Engineering Compet
 
 <h3>Documentation/Presentation Elements</h3>
 
-> [Parts II/III Documentation](https://tristanparry.github.io/BetterBanking-GUI/betterBankingGUImaven/package-summary.html)
+> [Parts II/III Documentation](https://github.com/tristanparry/P-11-WEC2021/blob/main/DOCS%2BVISUALS/P-11%20WEC%20-%20Parts%20II%20_%20III.pdf)
 > 
 > [Presentation Visuals](https://tristanparry.github.io/BetterBanking-GUI/betterBankingGUImaven/package-summary.html)
 
